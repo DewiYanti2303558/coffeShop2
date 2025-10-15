@@ -3,80 +3,80 @@
     "id": 1,
     "nama": "Caffè Latte",
     "harga": "25000",
-    "gambar": "https://raw.githubusercontent.com/bflysans/coffeeshopdata/main/images/caffe_latte_thumbnail.png",
-    "poster": "https://raw.githubusercontent.com/bflysans/coffeeshopdata/main/images/caffe_latte_poster.jpg",
-    "deskripsi": "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffè latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it."
+    "gambar": "https://raw.githubusercontent.com/DewiYanti2303558/coffeShop2/main/images/caffe_latte_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/DewiYanti2303558/coffeShop2/main/images/caffe_latte_poster.jpg",
+    "deskripsi": "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffè latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.."
   },
   {
     "id": 2,
     "nama": "Cappuccino",
     "harga": "25000",
-    "gambar": "https://raw.githubusercontent.com/bflysans/coffeeshopdata/main/images/cappuccino_thumbnail.png",
-    "poster": "https://raw.githubusercontent.com/bflysans/coffeeshopdata/main/images/cappuccino_poster.jpg",
+    "gambar": "https://raw.githubusercontent.com/DewiYanti2303558/coffeShop2/main/images/cappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/DewiYanti2303558/coffeShop2/main/images/cappuccino_poster.jpg",
     "deskripsi": "Espresso with steamed milk, topped with a deep layer of foam."
   },
   {
     "id": 3,
     "nama": "Caffè Mocha",
     "harga": "27000",
-    "gambar": "https://raw.githubusercontent.com/bflysans/coffeeshopdata/main/images/caffe_mocha_thumbnail.png",
-    "poster": "https://raw.githubusercontent.com/bflysans/coffeeshopdata/main/images/caffe_mocha_poster.jpg",
+    "gambar": "https://raw.githubusercontent.com/DewiYanti2303558/coffeShop2/main/images/caffe_mocha_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/DewiYanti2303558/coffeShop2/main/images/caffe_mocha_poster.jpg",
     "deskripsi": "Espresso with bittersweet mocha sauce and steamed milk, topped with sweetened whipped cream. Delightful."
   },
   {
     "id": 4,
     "nama": "Caramel Macchiato",
     "harga": "29000",
-    "gambar": "https://raw.githubusercontent.com/bflysans/coffeeshopdata/main/images/caramel_macchiato_thumbnail.png",
-    "poster": "https://raw.githubusercontent.com/bflysans/coffeeshopdata/main/images/caramel_macchiato_poster.jpg",
+    "gambar": "https://raw.githubusercontent.com/DewiYanti2303558/coffeShop2/main/images/caramel_macchiato_thumbnail.png",
+    "poster": "https://raw.githubusercontent.comDewiYanti2303558/coffeShop2/main/images/caramel_macchiato_poster.jpg",
     "deskripsi": "Espresso combined with vanilla-flavoured syrup, milk and caramel sauce over ice. A Starbucks classic, chilled for a classic summer’s day. To our signature espresso we add a creamy mix of vanilla syrup and cold milk poured over ice; it’s then topped with our proprietary buttery caramel sauce. Sweet!"
   },
   {
     "id": 5,
     "nama": "Vanilla Sweet Cream Cold Brew",
     "harga": "27000",
-    "gambar": "https://raw.githubusercontent.com/bflysans/coffeeshopdata/main/images/vanilla_sweet_cream_cold_brew_thumbnail.png",
-    "poster": "https://raw.githubusercontent.com/bflysans/coffeeshopdata/main/images/vanilla_sweet_cream_cold_brew_poster.jpg",
+    "gambar": "https://raw.githubusercontent.com/DewiYanti2303558/coffeShop2/main/images/vanilla_sweet_cream_cold_brew_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/DewiYanti2303558/coffeShop2/main/images/vanilla_sweet_cream_cold_brew_poster.jpg",
     "deskripsi": "Just before serving, our slow-steeped Cold Brew is topped with a delicate float of house-made vanilla sweet cream that cascades throughout the cup."
   },
   {
     "id": 6,
     "nama": "Cold Brew",
     "harga": "26000",
-    "gambar": "https://raw.githubusercontent.com/bflysans/coffeeshopdata/main/images/cold_brew_thumbnail.png",
-    "poster": "https://raw.githubusercontent.com/bflysans/coffeeshopdata/main/images/cold_brew_poster.jpg",
+    "gambar": "https://raw.githubusercontent.com/DewiYanti2303558/coffeShop2/main/images/cold_brew_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/DewiYanti2303558/coffeShop2/main/images/cold_brew_poster.jpg",
     "deskripsi": "Slow-steeped, small-batch and super smooth. To create our signature recipe, our team spent months experimenting with different brew times and coffee varietals. We specifically developed the Starbucks® Cold Brew Blend to heighten the rich, naturally sweet flavor created during the cold brewing process."
   },
   {
     "id": 7,
     "nama": "Mango Passion Frappuccino",
     "harga": "28000",
-    "gambar": "https://raw.githubusercontent.com/bflysans/coffeeshopdata/main/images/mango_passion_frappuccino_thumbnail.png",
-    "poster": "https://raw.githubusercontent.com/bflysans/coffeeshopdata/main/images/mango_passion_frappuccino_poster.jpg",
+    "gambar": "https://raw.githubusercontent.com/DewiYanti2303558/coffeShop2/main/images/mango_passion_frappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/DewiYanti2303558/coffeShop2/main/images/mango_passion_frappuccino_poster.jpg",
     "deskripsi": "A tropical mango and passionfruit infusion, perfectly blended with a fruity hibiscus tea and ice."
   },
   {
     "id": 8,
     "nama": "Raspberry Currant Frappuccino",
     "harga": "28000",
-    "gambar": "https://raw.githubusercontent.com/bflysans/coffeeshopdata/main/images/raspberry_currant_frappuccino_thumbnail.png",
-    "poster": "https://raw.githubusercontent.com/bflysans/coffeeshopdata/main/images/raspberry_currant_frappuccino_poster.jpg",
+    "gambar": "https://raw.githubusercontent.com/DewiYanti2303558/coffeShop2/main/images/raspberry_currant_frappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/DewiYanti2303558/coffeShop2/main/images/raspberry_currant_frappuccino_poster.jpg",
     "deskripsi": "Made with freshly brewed Teavana® tea, blended juice and ice."
   },
   {
     "id": 9,
     "nama": "Coffee Frappuccino",
     "harga": "26000",
-    "gambar": "https://raw.githubusercontent.com/bflysans/coffeeshopdata/main/images/coffee_frappuccino_thumbnail.png",
-    "poster": "https://raw.githubusercontent.com/bflysans/coffeeshopdata/main/images/coffee_frappuccino_poster.jpg",
+    "gambar": "https://raw.githubusercontent.com/DewiYanti2303558/coffeShop2/main/images/coffee_frappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/DewiYanti2303558/coffeShop2/images/coffee_frappuccino_poster.jpg",
     "deskripsi": "Starbucks® coffee is blended with nonfat milk and ice for a sip on the light side."
   },
   {
     "id": 10,
     "nama": "Mocha Frappuccino",
     "harga": "29000",
-    "gambar": "https://raw.githubusercontent.com/bflysans/coffeeshopdata/main/images/mocha_frappuccino_thumbnail.png",
-    "poster": "https://raw.githubusercontent.com/bflysans/coffeeshopdata/main/images/mocha_frappuccino_poster.jpg",
+    "gambar": "https://raw.githubusercontent.com/DewiYanti2303558/coffeShop2/main/images/mocha_frappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/DewiYanti2303558/coffeShop2/main/images/mocha_frappuccino_poster.jpg",
     "deskripsi": "Mocha sauce, Frappuccino® roast coffee, milk and ice all come together for a mocha flavor that'll leave you wanting more."
   }
 ]
